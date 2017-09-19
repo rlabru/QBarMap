@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>adept_update.png</file>
+        <file>document-new.png</file>
+    </qresource>
+</RCC>
